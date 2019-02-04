@@ -7,14 +7,14 @@
 ## Installation
 
 ### Binary
-Binary can be downloaded from [here](???/releases).
+Binary can be downloaded from [here](https://github.com/quentm74/qquotes/releases).
 
 ### Development 
 
 > Rust and cargo must be installed.
 
 ```sh
-git clone ???
+git clone git@github.com:quentm74/qquotes.git
 cargo run -- --help
 ```
 
